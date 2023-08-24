@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software-Engineer;Back-end Developer; Machine Learning; Flask; Django; Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
 </p>
 
-<img src="/Header1.png" >
+<img height="auto" width="100%" src="/Banner-definitivo.jpg" >
  
 <!-- Bio -->
 - 👋 Hello! I'm Harold Villacis, a Software Engineering student with a strong foundation and notable projects
@@ -88,7 +88,7 @@
 <!-- reference = https://github.com/tandpfun/skill-icons -->
 <br>
 <div align="center">
-  <a href="https://github.com/umairazmat">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
+  <a href="https://github.com/haroldvillacis">
+    <img src="https://skillicons.dev/icons?i=python,flask,django,kubernetes,docker,linux,vscode,git,github,stackoverflow,vscodeqt&perline=5" />
   </a>
 </div>
