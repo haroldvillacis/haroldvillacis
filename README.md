@@ -63,23 +63,21 @@
     <img height="200px" src="git.png">
    </a>
 
-   <a href="https://https://www.credly.com/badges/2e046d4f-dc69-4c16-ba76-35ea9fa51a5f">
+   <a href="https://www.credly.com/badges/2e046d4f-dc69-4c16-ba76-35ea9fa51a5f">
     <img height="200px" src="python-data-science.png">
    </a>
 </div>
 
 <div align="center">
    <a href="https://www.credly.com/badges/db48b7c7-b1b3-4c41-b7d2-b21621c81d20">
-    <img height="200px" src="python-AI">
+    <img height="200px" src="python-AI.png">
    </a>
 
    <a href="https://www.credly.com/badges/f5a81ecb-17f7-4a3e-b6ad-fa99d4103747">
     <img height="200px" src="SQL-django.png">
    </a>
 
-   <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
-    <img height="200px" src="application-development-using-microservices-and-ser.png">
-   </a>
+   
 </div>
 
 
