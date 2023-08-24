@@ -55,26 +55,26 @@
     <img height="200px" src="software-essentials.png">
    </a>
 
-   <a href="https://www.credly.com/earner/earned/badge/a3d5b37f-7b7f-4ed4-b94d-677b67002b62">
-    <img height="200px" src="node-and-express-essentials.png">
+   <a href="https://www.credly.com/badges/528961f7-1a82-465d-8ca3-8448a7633d7f">
+    <img height="200px" src="linux-commands.png">
    </a>
 
-   <a href="https://www.credly.com/earner/earned/badge/a3d5b37f-7b7f-4ed4-b94d-677b67002b62">
-    <img height="200px" src="python-for-data-science-and-ai.png">
+   <a href="https://www.credly.com/badges/afa3e18e-c231-4e35-bde2-7e819baccb06">
+    <img height="200px" src="git.png">
    </a>
 
-   <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
-    <img height="200px" src="python-project-for-ai-and-application-development.png">
+   <a href="https://https://www.credly.com/badges/2e046d4f-dc69-4c16-ba76-35ea9fa51a5f">
+    <img height="200px" src="python-data-science.png">
    </a>
 </div>
 
 <div align="center">
-   <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
-    <img height="200px" src="developing-applications-with-sql-databases-and-django.png">
+   <a href="https://www.credly.com/badges/db48b7c7-b1b3-4c41-b7d2-b21621c81d20">
+    <img height="200px" src="python-AI">
    </a>
 
-   <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
-    <img height="200px" src="container-kubernetes-essentials-v2.png">
+   <a href="https://www.credly.com/badges/f5a81ecb-17f7-4a3e-b6ad-fa99d4103747">
+    <img height="200px" src="SQL-django.png">
    </a>
 
    <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
