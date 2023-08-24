@@ -14,7 +14,7 @@
 <img height="auto" width="100%" src="/Banner-definitivo.jpg" >
  
 <!-- Bio -->
-- 👋 Hello! I'm Harold Villacis, a Software Engineering with a strong foundation and notable projects
+- 👋 Hello! I'm Harold Villacis, a Software Engineer with a strong foundation and notable projects
 - 💪 I'm skilled in Back-end development. 
 - ⚙️ My advanced skills include Python, Machine Learning, Django, Flask, SQL, Docker, Kubernetes, Git/GitHub.
 <!-- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/umairazmat/)**.-->
